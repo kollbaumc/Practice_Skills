@@ -5,3 +5,5 @@
 ### 1.  The grade file is simple code written in notepad and saved as a .py file (allows client to enter their grade and decides whether the grade is a passing or failing grade) that can be run in miniconda.  
 
 ### 2. Webscraping_practice is an example of scraping data off a website (all-time Big Ten football wins) and organizing the data in a dataframe using pandas.
+
+### 3. Processing_datapractice is an example where I took data from a housing prices list and worked on things like filling in missing values, narrowing down the data according to state or county, checking data types of the attributes, and other skills.  
