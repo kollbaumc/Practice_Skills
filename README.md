@@ -8,4 +8,4 @@
 
 ### 3. Processing_datapractice is an example where I took data from a housing prices list and worked on things like filling in missing values, narrowing down the data according to state or county, checking data types of the attributes, and other skills.  
 
-### 4. Sentiment practice is a file where I took a sentence and wrote code using a spacy pipeline and spacytextblob to measure the polarity and subjectivity of the words in the sentence.  
+### 4. Sentiment_practice is a file where I took a sentence and wrote code using a spacy pipeline and spacytextblob to measure the polarity and subjectivity of the words in the sentence.  
